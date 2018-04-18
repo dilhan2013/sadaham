@@ -1,0 +1,11 @@
+C:\temp\src\help\Help.Web\obj\Debug\netcoreapp2.0\Help.Web.csproj.CoreCompileInputs.cache
+C:\temp\src\help\Help.Web\obj\Debug\netcoreapp2.0\Help.Web.AssemblyInfoInputs.cache
+C:\temp\src\help\Help.Web\obj\Debug\netcoreapp2.0\Help.Web.AssemblyInfo.cs
+C:\temp\src\help\Help.Web\obj\Debug\netcoreapp2.0\Help.Web.csprojResolveAssemblyReference.cache
+C:\temp\src\help\Help.Web\bin\Debug\netcoreapp2.0\SadahamWeb.deps.json
+C:\temp\src\help\Help.Web\bin\Debug\netcoreapp2.0\SadahamWeb.runtimeconfig.json
+C:\temp\src\help\Help.Web\bin\Debug\netcoreapp2.0\SadahamWeb.runtimeconfig.dev.json
+C:\temp\src\help\Help.Web\bin\Debug\netcoreapp2.0\SadahamWeb.dll
+C:\temp\src\help\Help.Web\bin\Debug\netcoreapp2.0\SadahamWeb.pdb
+C:\temp\src\help\Help.Web\obj\Debug\netcoreapp2.0\SadahamWeb.dll
+C:\temp\src\help\Help.Web\obj\Debug\netcoreapp2.0\SadahamWeb.pdb
