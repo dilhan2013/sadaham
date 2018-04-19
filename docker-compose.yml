@@ -4,7 +4,7 @@ services:
   webapplication1:
     image: webapplication1
     ports:
-      - "59252:80"
+      - "57471:80"
     build:
       context: .
       dockerfile: SadahamWeb/Dockerfile
