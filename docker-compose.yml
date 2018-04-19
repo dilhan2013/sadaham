@@ -2,7 +2,7 @@ version: '3'
 
 services:
   webapp:
-    image: webapp
+    image: dilhan2013/sadahamweb:latest
     ports:
       - "57471:80"
     build:
