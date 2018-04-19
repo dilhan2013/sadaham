@@ -1,4 +1,7 @@
 #!/bin/bash  
+echo "Git pull"
+git pull
+
 echo "Build docker image"  
 
 docker build https://github.com/dilhan2013/sadaham.git#master -t dilhan2013/sadahamweb:latest
