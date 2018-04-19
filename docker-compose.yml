@@ -5,10 +5,6 @@ services:
     image: dilhan2013/sadahamweb:latest
     ports:
       - "57471:80"
-    build:
-      dockerfile: ./SadahamWeb/Dockerfile
-    links:
-      - db
     depends_on:
        - "db"
     networks:
