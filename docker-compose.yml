@@ -1,8 +1,8 @@
 version: '3'
 
 services:
-  SadahamWeb:
-    image: SadahamWeb
+  webapp:
+    image: webapp
     ports:
       - "57471:80"
     build:
