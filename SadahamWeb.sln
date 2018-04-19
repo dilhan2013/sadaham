@@ -1,13 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27428.2015
+VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SadahamWeb", "SadahamWeb\SadahamWeb.csproj", "{244FA5B6-2377-4916-A537-28F195F006B5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3CE564B1-421F-426A-9BEA-6F3029415E1D}"
 	ProjectSection(SolutionItems) = preProject
 		.dockerignore = .dockerignore
+		deploy.sh = deploy.sh
 		docker-compose.yml = docker-compose.yml
 		Dockerfile = Dockerfile
 	EndProjectSection
