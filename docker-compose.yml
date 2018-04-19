@@ -1,13 +1,12 @@
 version: '3'
 
 services:
-  SadahamWeb:
-    image: SadahamWeb
+  webapp:
+    image: webapp
     ports:
       - "57471:80"
     build:
-      context: .
-      dockerfile: SadahamWeb/Dockerfile
+      dockerfile: ./SadahamWeb/Dockerfile
     links:
       - db
     depends_on:
@@ -15,7 +14,7 @@ services:
     networks:
       - mynetwork
     deploy:
-      replicas: 2
+      replicas: 1
 
   visualizer:
     image: dockersamples/visualizer:stable
