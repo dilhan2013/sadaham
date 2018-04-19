@@ -1,6 +1,13 @@
 # Sadaham web site
 
 ## Deployment
+
+### All in one command
+Pull latest from https://github.com/dilhan2013/sadaham.git and then Run following command to build docker image -> and then do the docker stack deploy all in one command
+`bash ./deploy.sh`
+
+Or, use following steps
+
 ### Docker Build
 `docker build https://github.com/dilhan2013/sadaham.git#master  -t dilhan2013/sadahamweb:latest`
 
