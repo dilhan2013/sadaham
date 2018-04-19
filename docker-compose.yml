@@ -7,7 +7,6 @@ services:
       - "57471:80"
     build:
       dockerfile: ./SadahamWeb/Dockerfile
-      image: webapp:tag
     links:
       - db
     depends_on:
