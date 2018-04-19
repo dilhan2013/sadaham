@@ -7,12 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="Client\css\site.css" />
-    <Content Include="Client\js\main.js" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Client\images\" />
     <Folder Include="Data\" />
   </ItemGroup>
 
@@ -32,6 +26,7 @@
   </Target>
 
   <ItemGroup>
+    <None Include="wwwroot\css\site.css" />
     <None Include="wwwroot\images\search.png" />
     <None Include="wwwroot\images\ven_galigamuwe.jpg" />
   </ItemGroup>
