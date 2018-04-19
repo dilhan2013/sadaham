@@ -33,6 +33,7 @@
 
   <ItemGroup>
     <None Include="wwwroot\images\search.png" />
+    <None Include="wwwroot\images\ven_galigamuwe.jpg" />
   </ItemGroup>
 
   <ItemGroup>

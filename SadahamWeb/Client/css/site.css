@@ -47,3 +47,14 @@
         -khtml-opacity: 0.8;
         opacity: .8;
     }
+
+.profile-pic {
+    height: 60px;
+    width:auto;
+    border-radius:4px;
+}
+
+.title {
+    font-weight:bold;
+    font-size:16px;
+}
