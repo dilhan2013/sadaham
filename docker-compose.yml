@@ -14,7 +14,7 @@ services:
     networks:
       - mynetwork
     deploy:
-      replicas: 2
+      replicas: 1
 
   visualizer:
     image: dockersamples/visualizer:stable
