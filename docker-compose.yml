@@ -6,8 +6,8 @@ services:
     ports:
       - "57471:80"
     build:
-      context: .
-      dockerfile: SadahamWeb/Dockerfile
+      dockerfile: ./SadahamWeb/Dockerfile
+      image: webapp:tag
     links:
       - db
     depends_on:
